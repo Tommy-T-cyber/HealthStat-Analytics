@@ -1,0 +1,15 @@
+,Missing Values,Missing Percentage,Data Type,Unique Values
+Patient ID,0,0.0,object,40
+Name,0,0.0,object,40
+Age,0,0.0,int64,35
+Gender,0,0.0,object,2
+Diagnosis,0,0.0,object,5
+Blood Pressure,0,0.0,object,37
+Heart Rate (bpm),0,0.0,int64,28
+Cholesterol (mg/dL),0,0.0,int64,22
+BMI,0,0.0,float64,40
+Smoking Status,0,0.0,object,2
+Physical Activity,0,0.0,object,3
+Last Visit,0,0.0,object,40
+Medication Adherence (%),0,0.0,int64,32
+Glucose Level (mg/dL),0,0.0,int64,21

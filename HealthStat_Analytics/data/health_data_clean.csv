@@ -1,0 +1,41 @@
+Patient ID,Age,Gender,Diagnosis,Blood Pressure,Heart Rate (bpm),Cholesterol (mg/dL),BMI,Smoking Status,Physical Activity,Last Visit,Medication Adherence (%),Glucose Level (mg/dL),Systolic BP,Diastolic BP
+P001,45,Male,Hypertension,140/90,85,220,29.5,Smoker,Low,2025-07-05,75,110,140,90
+P002,53,Female,Diabetes,130/85,78,200,31.2,Non-Smoker,Moderate,2025-06-12,90,160,130,85
+P003,60,Male,Heart Disease,150/95,92,240,34.1,Smoker,Low,2025-06-22,60,140,150,95
+P004,38,Female,Asthma,120/80,72,180,25.4,Non-Smoker,High,2025-07-15,95,95,120,80
+P005,50,Male,Obesity,145/92,88,260,35.6,Smoker,Low,2025-07-18,55,180,145,92
+P006,42,Female,Diabetes,135/88,80,215,28.7,Non-Smoker,Moderate,2025-07-20,85,150,135,88
+P007,55,Male,Hypertension,142/93,90,230,33.5,Smoker,Low,2025-07-25,70,120,142,93
+P008,29,Female,Asthma,118/78,70,175,24.3,Non-Smoker,High,2025-07-28,98,85,118,78
+P009,65,Male,Heart Disease,155/99,95,250,36.2,Smoker,Low,2025-07-30,65,170,155,99
+P010,48,Female,Obesity,138/88,82,225,30.1,Non-Smoker,Moderate,2025-08-02,88,130,138,88
+P011,52,Male,Diabetes,139/89,84,210,32.4,Non-Smoker,Low,2025-08-05,80,140,139,89
+P012,34,Female,Asthma,121/79,75,190,26.5,Non-Smoker,High,2025-08-10,92,90,121,79
+P013,59,Male,Heart Disease,152/97,93,245,34.9,Smoker,Low,2025-08-12,63,155,152,97
+P014,41,Female,Hypertension,144/91,86,222,29.9,Non-Smoker,Moderate,2025-08-14,85,115,144,91
+P015,39,Male,Obesity,137/87,79,235,33.2,Smoker,Low,2025-08-16,72,125,137,87
+P016,28,Female,Asthma,119/77,69,172,23.1,Non-Smoker,High,2025-08-18,99,88,119,77
+P017,62,Male,Diabetes,153/98,94,255,36.7,Smoker,Low,2025-08-20,58,165,153,98
+P018,47,Female,Hypertension,143/90,83,218,28.9,Non-Smoker,Moderate,2025-08-22,89,120,143,90
+P019,51,Male,Heart Disease,148/96,89,240,35.4,Smoker,Low,2025-08-24,67,145,148,96
+P020,36,Female,Obesity,136/86,77,228,31.8,Non-Smoker,Moderate,2025-08-26,91,130,136,86
+P021,44,Male,Hypertension,141/89,85,225,30.5,Smoker,Low,2025-08-28,76,118,141,89
+P022,37,Female,Asthma,122/80,74,185,25.7,Non-Smoker,High,2025-08-30,96,92,122,80
+P023,54,Male,Diabetes,149/94,88,235,33.1,Smoker,Low,2025-09-01,70,158,149,94
+P024,40,Female,Obesity,139/87,81,230,32.6,Non-Smoker,Moderate,2025-09-03,88,140,139,87
+P025,58,Male,Heart Disease,154/98,96,250,35.8,Smoker,Low,2025-09-05,60,165,154,98
+P026,33,Female,Asthma,120/79,73,180,24.9,Non-Smoker,High,2025-09-07,94,90,120,79
+P027,49,Male,Hypertension,146/92,87,220,30.8,Smoker,Low,2025-09-09,78,125,146,92
+P028,46,Female,Diabetes,134/85,79,210,29.1,Non-Smoker,Moderate,2025-09-11,82,150,134,85
+P029,57,Male,Heart Disease,157/100,97,260,37.2,Smoker,Low,2025-09-13,62,170,157,100
+P030,39,Female,Obesity,138/88,80,225,31.5,Non-Smoker,Moderate,2025-09-15,87,135,138,88
+P031,50,Male,Diabetes,140/90,85,215,31.0,Smoker,Low,2025-09-17,75,155,140,90
+P032,35,Female,Asthma,121/78,71,175,25.2,Non-Smoker,High,2025-09-19,95,88,121,78
+P033,63,Male,Heart Disease,155/99,95,245,34.6,Smoker,Low,2025-09-21,64,160,155,99
+P034,42,Female,Hypertension,142/90,84,219,29.7,Non-Smoker,Moderate,2025-09-23,84,118,142,90
+P035,40,Male,Obesity,137/85,78,230,32.9,Smoker,Low,2025-09-25,73,130,137,85
+P036,27,Female,Asthma,117/76,68,170,22.8,Non-Smoker,High,2025-09-27,99,85,117,76
+P037,61,Male,Diabetes,150/96,92,250,35.0,Smoker,Low,2025-09-29,59,160,150,96
+P038,45,Female,Hypertension,143/91,82,215,28.5,Non-Smoker,Moderate,2025-10-01,88,120,143,91
+P039,56,Male,Heart Disease,153/97,94,255,35.5,Smoker,Low,2025-10-03,66,150,153,97
+P040,43,Female,Obesity,139/86,80,220,31.3,Non-Smoker,Moderate,2025-10-05,86,130,139,86
